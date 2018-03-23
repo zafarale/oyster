@@ -1,0 +1,10 @@
+# Oyster Fare Calculator
+	Thsi is a simple spring boot absed implementation, requires lot of work to make it feasible, its done to convey the design and developmental skills.
+    
+The Application is based on Concepts and thier automatic database mapping using JPA 2.0
+	1. Travel Card
+	2. Journey
+	3. Barrier
+	
+    
+The most complete flow can be observed with FareCalculatorService and its test which orchestrates fare calculation using other services
